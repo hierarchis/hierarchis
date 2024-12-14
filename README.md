@@ -10,7 +10,7 @@ Hi there! I'm a **Frontend Developer** specializing in **React**, **Next.js**, a
 - ❄️ **Minimalist:** Clean code, like clean lines in design, speaks volumes.
 
 ## 💬 Let's Connect
-- **Telegram**: [https://your-website.com](https://t.me/hierarchis)
+- **Telegram**: [@hierarchis](https://t.me/hierarchis)
 
 ---
 
